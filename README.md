@@ -1,9 +1,8 @@
 # SoulmateLetter
 
 
-## System Design
-  - ### System Requirements
-Android, Java, Firebase
+## System Requirements
+**Android, Java, Firebase**
 
   
 ## Conclusion
